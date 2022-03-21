@@ -4,7 +4,7 @@ module.exports = {
     'ar-AE': 'موقع الكتروني',
     'en-GB': 'Website',
     'es-ES': 'Sitio web',
-    'fr-FR': 'Sitio web'
+    'fr-FR': 'Site web'
   },
   select_language: {
     'ar-AE': 'اختار اللغة',
